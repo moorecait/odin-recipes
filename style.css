@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+.index {
+    text-align: center;
+}
+
+h1 {   
+    background-color: #006806;
+    color: white;
+    text-align: center;
+}
+
+.carrot {
+    background-color: #B5FFB9;
+}
+
+.cheese {
+    background-color: #56F15F;
+}
+
+.tuna {
+    background-color: #25ED31;
+}
